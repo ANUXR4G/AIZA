@@ -80,28 +80,28 @@ const Footer = () => {
                             <div className="flex md:flex-col  md:space-x-0 space-x-4 md:space-y-4 text-sm text-SecondTextColor flex-wrap">
                                 <a
                                     target="_blank"
-                                    href="https://www.linkedin.com/in/imam-hasan-666021204/"
+                                    href="/"
                                     className="hover:underline"
                                 >
                                     LinkedIn
                                 </a>
                                 <a
                                     target="_blank"
-                                    href="https://www.youtube.com/@AlphaVideoEdit"
+                                    href=""
                                     className="hover:underline"
                                 >
                                     YouTube
                                 </a>
                                 <a
                                     target="_blank"
-                                    href="https://www.instagram.com/alphavideoedit/"
+                                    href="/"
                                     className="hover:underline"
                                 >
                                     Instagram
                                 </a>
                                 <a
                                     target="_blank"
-                                    href="https://www.facebook.com/people/Alphavideoeditcom/61566444836135/?mibextid=ZbWKwL"
+                                    href=""
                                     className="hover:underline"
                                 >
                                     Facebook
@@ -114,7 +114,7 @@ const Footer = () => {
             </div>
 
             <div className="container mx-auto text-center -mt-6 mb-4 text-SecondTextColor text-xs md:text-base">
-                <p>&copy; 2025 Alpha Video Edit. All rights reserved.</p>
+                <p>&copy; 2025 AIZA Video Edit. All rights reserved.</p>
             </div>
         </div>
     );
