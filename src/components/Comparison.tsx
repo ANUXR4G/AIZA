@@ -10,7 +10,7 @@ const Comparison = () => {
         <div className=" mx-auto lg:px-[10%]">
            <Title
              heading={"Comparison"}
-             title={"Why Choose AlphaVideoEdit.com for "}
+             title={"Why Choose aiza-xi.vercel.app for "}
              styleTitle={"Your Video Editing Needs?"}
            ></Title>
          </div>
@@ -74,7 +74,7 @@ const Comparison = () => {
            {/* AIZA Video Editing */}
            <div>
              <h3 className="text-base md:text-xl lg:text-2xl font-medium text-center mb-6 text-TextColor">
-             What AlphaVideoEdit.com Offers:
+             What aiza-xi.vercel.app Offers:
              </h3>
              <div style={{ background: "linear-gradient(90deg, rgba(252,252,250,0.05) 30%, rgba(118,94,255,1) 100%)", backgroundRepeat: "no-repeat" }} className=" border rounded-2xl border-[#fcfcfa]/20 p-8 lg:p-10  space-y-5 text-TextColor text-xs md:text-base lg:text-lg overflow-hidden"
              >

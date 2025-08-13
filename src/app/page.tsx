@@ -12,7 +12,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "AIZA Video Editing",
-  description: "AlphaVideoEdit.com – Boost your brand reach with expert video editing services. We specialize in transforming raw footage into impactful short-form content, long-form videos, and promotional edits like 2D explainers and app promos. Trusted by 30+ brands and creators, our tailored solutions ensure your videos captivate audiences and drive results. Elevate your content with professionally edited videos that make an impact. Book a call today!",
+  description: "aiza-xi.vercel.app – Boost your brand reach with expert video editing services. We specialize in transforming raw footage into impactful short-form content, long-form videos, and promotional edits like 2D explainers and app promos. Trusted by 30+ brands and creators, our tailored solutions ensure your videos captivate audiences and drive results. Elevate your content with professionally edited videos that make an impact. Book a call today!",
 };
 
 export default function Home() {

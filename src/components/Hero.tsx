@@ -52,7 +52,7 @@ const Hero = () => {
 
                     {/* Subtitle */}
                     <p className="text-center leading-5 md:leading-7 text-gray-400 text-xs md:text-base lg:px-16 lg:text-lg mt-4 md:mt-6">
-                        Trusted by creators and brands worldwide, AlphaVideoEdit.com
+                        Trusted by creators and brands worldwide, aiza-xi.vercel.app
                         specializes in professional video editing for influencers,
                         educators, and businesses. Whether it’s engaging long-form content
                         or attention-grabbing short-form videos, we craft impactful stories

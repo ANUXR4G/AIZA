@@ -11,7 +11,7 @@ const LongForm = () => {
           title={" Long-Form Video Editing:"}
           styleTitle={" Transform Raw Footage into Impactful Masterpieces"}
           paragraph={
-            "    At AlphaVideoEdit.com, we specialize in professional long-form video editing, designed to captivate and engage diverse audiences. Whether it's documentaries, vlogs, webinars, or educational content, we meticulously cut unnecessary parts, remove mistakes and mispronunciations, and merge clips for smooth storytelling. Our team also sources relevant footage to enhance your narrative, improves audio quality, and adds effects, transitions, motion graphics, and custom 2D animations to visualize your story. Our expert editors transform raw footage into compelling, polished videos that amplify your brand's reach, boost viewer retention, and leave a lasting impression."
+            "    At aiza-xi.vercel.app, we specialize in professional long-form video editing, designed to captivate and engage diverse audiences. Whether it's documentaries, vlogs, webinars, or educational content, we meticulously cut unnecessary parts, remove mistakes and mispronunciations, and merge clips for smooth storytelling. Our team also sources relevant footage to enhance your narrative, improves audio quality, and adds effects, transitions, motion graphics, and custom 2D animations to visualize your story. Our expert editors transform raw footage into compelling, polished videos that amplify your brand's reach, boost viewer retention, and leave a lasting impression."
           }
         ></Title>
       </div>

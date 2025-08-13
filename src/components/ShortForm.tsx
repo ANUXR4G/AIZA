@@ -19,7 +19,7 @@ const ShortForm = () => {
                     title={"Professional Video Editing "}
                     styleTitle={"Showcase & Creative Content"}
                     paragraph={
-                        "Discover our diverse portfolio of video editing projects at AlphaVideoEdit.com. From corporate presentations and promotional content to creative storytelling and brand campaigns, we deliver high-quality video editing services that transform your vision into compelling visual narratives. Each project showcases our commitment to excellence in video production and post-production."
+                        "Discover our diverse portfolio of video editing projects at aiza-xi.vercel.app. From corporate presentations and promotional content to creative storytelling and brand campaigns, we deliver high-quality video editing services that transform your vision into compelling visual narratives. Each project showcases our commitment to excellence in video production and post-production."
                     }
                 />
             </div>
